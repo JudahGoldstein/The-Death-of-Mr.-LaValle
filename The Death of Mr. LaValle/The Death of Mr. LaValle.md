@@ -6,7 +6,9 @@
 - **[[Plot]]**
 - **Reference**
 	- **[[Characters]]**
+	- **[[Excerpts]]**
 	- **[[Items]]**
+- **[[Templates]]**
 
 %% End Waypoint %%
 
