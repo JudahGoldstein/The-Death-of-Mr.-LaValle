@@ -1,0 +1,1 @@
+This is a no~low combat scenario, if a player wants to make a more combat-centred character perhaps guide them towards a combat oriented bonus skill package like [[Combat Veteran]], [[Deep Cover]], [[Military Officer]], [[Police Officer]], or [[Soldier]]. Dont worry too much if a player insists on a combat oriented profession 
