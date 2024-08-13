@@ -3,57 +3,7 @@
     {
       "type": "group",
       "ctime": 1723577143092,
-      "items": [
-        {
-          "type": "graph",
-          "ctime": 1723577743524,
-          "title": "Graph",
-          "options": {
-            "collapse-filter": false,
-            "search": "-path:\"The Death of Mr. LaValle/Templates\"  -file:\"Characters\" -file:\"Excerpts\" -file:\"Plot\"",
-            "showTags": false,
-            "showAttachments": false,
-            "hideUnresolved": false,
-            "showOrphans": false,
-            "collapse-color-groups": false,
-            "colorGroups": [
-              {
-                "query": "path:\"The Death of Mr. LaValle/Reference/Characters\"  ",
-                "color": {
-                  "a": 1,
-                  "rgb": 14048348
-                }
-              },
-              {
-                "query": "path:\"The Death of Mr. LaValle/Plot/01. The Briefing/Handouts/Cover Identities\" OR path:\"The Death of Mr. LaValle/Reference/Excerpts/Bonus Packages\"  OR file:\"Guiding character creation\"",
-                "color": {
-                  "a": 1,
-                  "rgb": 14069084
-                }
-              },
-              {
-                "query": "path:\"The Death of Mr. LaValle/Plot\"  ",
-                "color": {
-                  "a": 1,
-                  "rgb": 11392604
-                }
-              }
-            ],
-            "collapse-display": false,
-            "showArrow": false,
-            "textFadeMultiplier": 0,
-            "nodeSizeMultiplier": 1,
-            "lineSizeMultiplier": 1,
-            "collapse-forces": true,
-            "centerStrength": 0.518713248970312,
-            "repelStrength": 10,
-            "linkStrength": 1,
-            "linkDistance": 250,
-            "scale": 0.7435908761836404,
-            "close": false
-          }
-        }
-      ],
+      "items": [],
       "title": "graphs"
     }
   ]
