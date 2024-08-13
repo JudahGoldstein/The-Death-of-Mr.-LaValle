@@ -1,0 +1,3 @@
+As mentioned in [[A note on lore accuracy]] this campaign is compatible with other published scenarios. My intention is to have this scenario be relatively tight, but if you want to draw things out into a longer campaign I'll leave the occasional suggestion for what published scenarios would fit well into particular story arcs. 
+
+As long as you have a good understanding of the [[Scenario Overview]] it should be relatively self-explanatory, where any scenarios I don't mention may fit. 

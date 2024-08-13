@@ -1,0 +1,1 @@
+Welcome! I know that this isn't exactly the standard format for sharing a scenario supplement, so I'll give you a bit of a crash-course on how to use it. If you feel like you can figure things out on your own, I'd suggest taking a look at the [[The Death of Mr. LaValle|Table of Contents]] next. 

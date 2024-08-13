@@ -1,0 +1,24 @@
+- [ ] Before Session 0:
+	- [ ] Printed: 
+		- [ ] Character sheets (two per player just in case)
+		- [ ] Character templates
+		- [ ] Take-home sheet
+	- [ ] Packed: 
+		- [ ] Dice
+		- [ ] Extra pencils (your players will thank you)
+		- [ ] Rules reference (the quickstart is fine)
+		- [ ] Scrap paper
+- [ ] During Session 0:
+	- [ ] Introduce the system (if players are new)
+	- [ ] Character Creation: 
+		- [ ] Introduce the basic premise
+		- [ ] Players pick templates
+		- [ ] Players fill out character sheets
+	- [ ] Q&A about the setting
+	- [ ] Discuss any characterization ideas players initially have. 
+	- [ ] Hand out the take-home 
+- [ ] After Session 0:
+	- [ ] Follow up with each player: 
+		- [ ] Lock in their character 
+		- [ ] Answer any new questions
+		- [ ] Take note of each player's character for your own reference. 

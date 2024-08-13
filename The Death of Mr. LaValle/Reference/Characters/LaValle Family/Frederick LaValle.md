@@ -1,0 +1,1 @@
+Son of [[Percival LaValle]] and [[Cecil Ackroyd]]. An illegitimate child, but the only child to make something of themselves. He's the presumed primary heir, inspiring jealousy in his half-brother [[Percival LaValle Jr.]] 

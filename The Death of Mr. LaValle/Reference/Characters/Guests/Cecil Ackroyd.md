@@ -1,0 +1,1 @@
+Mother of [[Frederick LaValle]]. 

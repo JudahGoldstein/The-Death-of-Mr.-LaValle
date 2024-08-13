@@ -1,0 +1,3 @@
+I don't pretend to be an expert on DG lore, I haven't read most of the novels, and there are a handful of scenarios I haven't gotten my hands on quite yet. I can't say that this scenario is lore accurate, my goal is to make sure it's “compatible” with Delta Green lore, it will fit together with other Delta Green scenarios by other authors relatively seamlessly. 
+
+My take on the world of Delta Green leans more into the mystery and conspiracy aspects of the setting, less so the horror and fantasy aspects. That has informed a lot of how my take on the setting has evolved over the years of running games. 

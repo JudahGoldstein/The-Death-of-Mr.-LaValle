@@ -1,0 +1,1 @@
+Old army friend of [[Percival LaValle]], suffers from severe PTSD, hired by [[Percival LaValle|Percival]] as a grounds keeper to keep him off the streets. 
