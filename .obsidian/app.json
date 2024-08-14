@@ -1,4 +1,7 @@
 {
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Tcho-Tcho"
+  ]
 }
