@@ -1,0 +1,11 @@
+{
+  "remove-newlines:paste-without-newlines": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ]
+}

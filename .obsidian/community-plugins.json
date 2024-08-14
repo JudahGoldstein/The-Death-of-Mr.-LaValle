@@ -1,5 +1,6 @@
 [
   "waypoint",
   "folder-note-plugin",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "remove-newlines"
 ]
