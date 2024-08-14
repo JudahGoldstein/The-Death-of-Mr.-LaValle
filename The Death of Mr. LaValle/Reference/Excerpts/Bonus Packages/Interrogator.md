@@ -1,9 +1,10 @@
 Source: Agents Handbook
 Page: 27
 Excerpt:
-> Military Officer:
+> Interrogator:
 	Criminology
-	Foreign Language (choose one)
+	Foreign
+	Language (choose one)
 	Foreign Language (choose another)
 	HUMINT
 	Law
