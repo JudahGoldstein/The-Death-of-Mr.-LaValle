@@ -3,7 +3,71 @@
     {
       "type": "group",
       "ctime": 1723577143092,
-      "items": [],
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1723604350976,
+          "title": "Characters",
+          "options": {
+            "collapse-filter": false,
+            "search": "(path:\"The Death of Mr. LaValle/Reference/Characters\"  - file:\"Characters.md\") OR (path:\"The Death of Mr. LaValle/Plot/01. The Briefing/Handouts/Cover Identities\")",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "path:\"The Death of Mr. LaValle/Reference/Characters/LaValle Family\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14048348
+                }
+              },
+              {
+                "query": "path:\"The Death of Mr. LaValle/Reference/Characters/Guests\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14069084
+                }
+              },
+              {
+                "query": "path:\"The Death of Mr. LaValle/Reference/Characters/Estate Staff\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 11392604
+                }
+              },
+              {
+                "query": "path:\"The Death of Mr. LaValle/Plot/01. The Briefing/Handouts/Cover Identities\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 6084302
+                }
+              },
+              {
+                "query": "path:\"The Death of Mr. LaValle/Reference/Characters/Misc.\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 6970582
+                }
+              }
+            ],
+            "collapse-display": false,
+            "showArrow": true,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": false,
+            "centerStrength": 0.75,
+            "repelStrength": 14.8958333333333,
+            "linkStrength": 0.802083333333333,
+            "linkDistance": 30,
+            "scale": 0.8677269807253364,
+            "close": true
+          }
+        }
+      ],
       "title": "graphs"
     }
   ]
