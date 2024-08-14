@@ -1,0 +1,4 @@
+Source: Agents Handbook
+Page: 33
+Excerpt:
+> Human intelligence. This obtains information about a subject—especially information the subject would rather conceal—through observation, conversation, or examining patterns of behaviour and relationships. Use HUMINT to recognize signs of dishonesty from verbal cues and body language, gauge attitude and intentions, cultivate sources of information about a subject, determine what it would take to get a subject to cooperate, or recognize clues of what a subject wants to conceal. HUMINT can notice signs of mental illness, but Psychotherapy would be needed to diagnose and treat a specific malady. If your Agent also has Criminology, HUMINT can be used to compile a psychological profile to help find a subject. A subject who deliberately tries to deceive your Agent can attempt a [[Persuade]] test to oppose your Agent’s HUMINT.

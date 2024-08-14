@@ -1,4 +1,3 @@
-Source:
+Source: Agents Handbook
 Page:
-Link:
 Excerpt:
